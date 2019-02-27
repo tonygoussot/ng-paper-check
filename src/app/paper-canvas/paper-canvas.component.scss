@@ -1,0 +1,17 @@
+:host {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#paperCanvas {
+  width: 1200px;
+  height: 800px;
+  border: 1px solid black;
+}
+
+p small {
+  font-size: 70%;
+  color:gray;
+}
